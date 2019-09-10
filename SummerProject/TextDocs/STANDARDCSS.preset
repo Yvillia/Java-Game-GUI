@@ -1,0 +1,37 @@
+.Button
+{
+	-fx-background-color:#c0edd7;
+	-fx-text-color: #000000;
+}
+.Button:hover
+{
+	-fx-background-color: #86bda1;
+} 
+
+.root
+{
+	-fx-background-color: #dfebe5;
+	-fx-border-color: #f90230;
+}
+.BackButton
+{
+	-fx-padding: 10 10 10 10;
+        -fx-position: absolute; 
+        -fx-vertical-align: middle;
+}
+                     
+.BackButton:hover
+{
+        -fx-padding: 10 10 10 10; 
+        -fx-letter-spacing: 3;
+        -fx-vertical-align: middle;
+        -fx-position: absolute;
+	-fx-background-color: #bab1b1;
+}
+
+.Text
+{
+	-fx-font-family: serif;
+	-fx-text-color: #000000;
+	-fx-background-color: #fafafa;
+}

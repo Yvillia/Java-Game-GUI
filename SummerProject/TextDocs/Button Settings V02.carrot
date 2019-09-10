@@ -1,0 +1,11 @@
+-fx-padding: 10 10 10 10; -fx-border-radius: 18 18 18 18; -fx-vertical-align: middle; -fx-position: absolute;&
+
+-fx-padding: 10 10 10 10; -fx-letter-spacing: 1; -fx-border-radius: 18 18 18 18; -fx-vertical-align: middle; -fx-border-style: solid; -fx-border-width: 4px; -fx-border-color: #ff7fa1; -fx-position: absolute;&
+
+-fx-padding: 10 10 10 10; -fx-border-radius: 18 18 18 18; -fx-position: absolute; -fx-vertical-align: middle;&
+
+-fx-padding: 10 10 10 10; -fx-letter-spacing: 1; -fx-border-radius: 18 18 18 18; -fx-vertical-align: middle; -fx-position: absolute; -fx-border-style: solid; -fx-border-width: 1px; -fx-border-color: #ff7fa1;&
+
+-fx-padding: 10 10 10 10; -fx-border-radius: 18 18 18 18; -fx-vertical-align: middle; -fx-position: absolute;&
+
+-fx-padding: 10 10 10 10; -fx-letter-spacing: 1; -fx-border-radius: 18 18 18 18; -fx-vertical-align: middle;-fx-border-style: solid; -fx-border-width: 4px; -fx-border-color: #ff7fa1; -fx-position: absolute; 

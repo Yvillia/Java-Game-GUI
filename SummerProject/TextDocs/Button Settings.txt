@@ -1,0 +1,11 @@
+-fx-padding: 10 10 10 10; -fx-font-family: serif; -fx-border-radius: 18 18 18 18; -fx-font-size: large; -fx-vertical-align: middle; -fx-position: absolute; -fx-background-color:#&
+
+-fx-padding: 10 10 10 10; -fx-color: red; -fx-letter-spacing: 1; -fx-font-family: serif; -fx-border-radius: 18 18 18 18; -fx-font-size: x-large; -fx-vertical-align: middle; -fx-border-style: solid; -fx-border-width: 4px; -fx-border-color: ff7fa1; -fx-position: absolute; -fx-background-color:#&
+
+-fx-padding: 10 10 10 10; -fx-border-radius: 18 18 18 18; -fx-position: absolute; -fx-font-family: serif; -fx-font-size: medium; -fx-vertical-align: middle; -fx-background-color:#&
+
+-fx-padding: 10 10 10 10; -fx-color: red; -fx-letter-spacing: 1; -fx-border-radius: 18 18 18 18; -fx-font-family: serif; -fx-font-size: large; -fx-vertical-align: middle; -fx-position: absolute;-fx-border-style: solid; -fx-border-width: 1px; -fx-border-color: ff7fa1; -fx-background-color:#&
+
+-fx-padding: 10 10 10 10;-fx-font-family: serif;-fx-border-radius: 18 18 18 18; -fx-font-size: large; -fx-vertical-align: middle; -fx-position: absolute; -fx-background-color:#&
+
+-fx-padding: 10 10 10 10; -fx-color: red; -fx-letter-spacing: 1;-fx-font-family: serif; -fx-border-radius: 18 18 18 18;-fx-font-size: x-large; -fx-vertical-align: middle;-fx-border-style: solid; -fx-border-width: 4px; -fx-border-color: ff7fa1; -fx-position: absolute;-fx-background-color:# 
