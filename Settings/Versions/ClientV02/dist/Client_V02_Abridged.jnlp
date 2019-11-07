@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Client_V02_Abridged.jnlp">
+  <information>
+    <title>Client_V02_Abridged</title>
+    <vendor>nnrog</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Client_V02_Abridged.jar" size="25433" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Client_V02_Abridged" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="client_v02_abridged.Client_V02_Abridged"  name="Client_V02_Abridged" />
+  <update check="always"/>
+</jnlp>
